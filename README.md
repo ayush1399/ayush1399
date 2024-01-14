@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in anything to do with large complex Machine Learning Systems
 - 🌱 I’m currently learning LLVM
-- 🔭 I’m currently working on [scikitMLX](https://github.com/ayush1399/scikitMLX)
+- 🔭 I’m currently working on [skMX](https://github.com/ayush1399/skMX)
 - 👯 I’m looking to collaborate on Geometric Deep Learning for Drug Discovery
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you want, I can be pretty chatty (if you get me a cup of coffee :P)
